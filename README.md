@@ -1,7 +1,7 @@
 # Data-Professional-Survey-Breakdown-Power-BI-Project
 
 ## TASK
-Analyze a survey on data professionals for look break into a data role and create Dashboard.
+Analyze a survey on data professionals for breaking into a data role.
 
 ## Tools
 Power BI
