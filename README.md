@@ -3,11 +3,11 @@
 ## TASK
 Analyze a survey on data professionals for breaking into a data role.
 
-## Tools
+## Tool
 Power BI
 
 
-## Projects Dataset
+## Project Dataset
 From [AlexTheAnalyst](https://github.com/AlexTheAnalyst).
 
 
