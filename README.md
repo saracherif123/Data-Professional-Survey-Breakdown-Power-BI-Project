@@ -8,7 +8,7 @@ Power BI
 MS Excel
 
 ## Projects Dataset
-From ([AlexTheAnalyst](https://github.com/AlexTheAnalyst).
+From [AlexTheAnalyst](https://github.com/AlexTheAnalyst).
 
 ##Result of Analysis
 Average salary is $53.90K
