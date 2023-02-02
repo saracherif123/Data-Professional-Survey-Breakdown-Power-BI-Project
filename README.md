@@ -5,7 +5,7 @@ Analyze a survey on data professionals for look break into a data role and creat
 
 ## Tools
 Power BI
-MS Excel
+
 
 ## Projects Dataset
 From [AlexTheAnalyst](https://github.com/AlexTheAnalyst).
